@@ -40,4 +40,5 @@ p {
     font-family: 'Be Vietnam', sans-serif;
     font-size: 21pt;
     color: rgb(255, 34, 27);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.205);
 }
